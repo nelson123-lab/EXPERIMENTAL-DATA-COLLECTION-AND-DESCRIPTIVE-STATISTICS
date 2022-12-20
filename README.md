@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISCTICS/blob/af50e5ba814dfcf1eb9fd6f3d75d4424453fe84f/P&S%20roadmap.jpg" width="1200"/></div>
+<div align="center"><img src="https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS/blob/823cd24aae129b3bf49088a1a00c2950086a4020/Roadmap.jpg" width="1000"/></div>
 
 # EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS
 
