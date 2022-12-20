@@ -17,6 +17,6 @@ of freedom, and test conclusions. In Part-II of the paper, the whole procedure f
 
 ### Detailed explaination from data collection to conclusion obtained from goodness of fit test is Report Part-I and Part-II respectively.
 
-[Report Part-I](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISCTICS/blob/fb00e7f41e466da5f3549b70a3d7fb6c668d7773/EXPERIMENTAL%20DATA%20COLLECTION%20AND%20DESCRIPTIVE%20STATISCTICS%20PART%20-%20I.pdf) - Data Collection Process, Descriptive Statistics, Conclusions based on descriptive statistics and visulaization on data.
+[Report Part-I](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS/blob/b903350edc33b7b1c0987652e82ae7684588e3d6/EXPERIMENTAL%20DATA%20COLLECTION%20AND%20DESCRIPTIVE%20STATISTICS%20PART%20-%20I.pdf) - Data Collection Process, Descriptive Statistics, Conclusions based on descriptive statistics and visulaization on data.
 
-[Report Part-II](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISCTICS/blob/fb00e7f41e466da5f3549b70a3d7fb6c668d7773/EXPERIMENTAL%20DATA%20COLLECTION%20AND%20DESCRIPTIVE%20STATISCTICS%20PART%20-%20II.pdf) - Descriptive Statistics, Goodness of fit test, Conclusions based on both descriptive statistics and Goodness of fit test on data.
+[Report Part-II](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS/blob/b903350edc33b7b1c0987652e82ae7684588e3d6/EXPERIMENTAL%20DATA%20COLLECTION%20AND%20DESCRIPTIVE%20STATISTICS%20PART%20-%20II.pdf) - Descriptive Statistics, Goodness of fit test, Conclusions based on both descriptive statistics and Goodness of fit test on data.
