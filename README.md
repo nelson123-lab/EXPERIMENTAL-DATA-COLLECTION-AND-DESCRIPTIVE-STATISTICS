@@ -20,3 +20,6 @@ of freedom, and test conclusions. In Part-II of the paper, the whole procedure f
 [Report Part-I](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS/blob/b903350edc33b7b1c0987652e82ae7684588e3d6/EXPERIMENTAL%20DATA%20COLLECTION%20AND%20DESCRIPTIVE%20STATISTICS%20PART%20-%20I.pdf) - Data Collection Process, Descriptive Statistics, Conclusions based on descriptive statistics and visulaization on data.
 
 [Report Part-II](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS/blob/b903350edc33b7b1c0987652e82ae7684588e3d6/EXPERIMENTAL%20DATA%20COLLECTION%20AND%20DESCRIPTIVE%20STATISTICS%20PART%20-%20II.pdf) - Descriptive Statistics, Goodness of fit test, Conclusions based on both descriptive statistics and Goodness of fit test on data.
+
+## Note
+**This repository serves as a demonstration of my work for the Probability and Statistics coursework. Kindly refrain from using the exact code provided here in any academic assignments. Its purpose is to provide a reference and facilitate learning for others.**
